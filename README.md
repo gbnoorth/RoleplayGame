@@ -1,0 +1,2 @@
+# RoleplayGame
+Jogo de simulação da vida real. Onde possuí a jogabilidade como estivessemos na vida real, tendo como por exemplo consumir alimentos (para suprimir as necessidades do Personagem - Fome e Sede), energia, que são gastos ao correr e pular. E o ganho dinheiro para se sustentar, mas podendo comprar imóveis e bens em seu "nome" com o mesmo dentro do jogo.  Codinome (Para identificar versão de desenvolvimento) e nome de repositório: RoleplayGame;  Versão: Atualmente na versão de desenvolvimento (ALPHA) 0.0.1;
