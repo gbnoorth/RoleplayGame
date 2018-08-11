@@ -20,3 +20,13 @@ APLHA VERSION 0.0.1:
 - Otimizado os Blueprints do jogo para retornar um desempenho melhor de primeira versão;
 - Criado as imagens dos botões para adicionar no Menu_Principal na entrada do jogo;
 - Adicionado o widget Menu_Principal para entrada no jogo pelo Cliente (Contendo os botões: Jogar, Opções e Sair);
+
+Link para baixar a versão Cliente 0.0.1 (pelo Mega.NZ) - Fora de Vírus: 
+
+https://mega.nz/#!SlgVFToA!PjVX8fhlUcRY3SipSKJyclpGTDF4qLOfgUUsQPE7KDQ
+
+Como jogar:
+
+1 - Extraia com WinRAR (extrair aqui) o jogo baixado a cima; 
+2 - Abra a pasta do jogo;
+3 - Inicie o aplicativo RoleplayGame.exe localizado após você entrar na pasta raiz;
